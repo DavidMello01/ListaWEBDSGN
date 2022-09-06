@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+#marineford{
+    font-size: 50px;
+    color:blueviolet;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+#Frases{
+    color: white;
+}
+li{
+    font-size: 40px;
+    margin: 50px;
+}
+#marineF{
+    width: 600px;
+}
+#Wano{
+    width: 600px;
+}
+#WholeCake{
+    width: 600px;
+}
+#Posições{
+    font-size: 40px;
+    color: blueviolet;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+head{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
